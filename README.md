@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Studying for a Bachelors Degree of Computer Systems Engineering at University of Newcastle, Australia
+Studying for a Bachelors Degree of Computer Systems Engineering at the University of Newcastle, Australia
 
 
 <!--
