@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Studying for a Bachelors Degree of Computer Systems Engineering at University of Newcastle, Australia
+
+
 <!--
 **ChavezMarchant/ChavezMarchant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
